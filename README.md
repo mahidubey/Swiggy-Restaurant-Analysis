@@ -2,5 +2,5 @@ The Swiggy Restaurant Analysis Dashboard is a powerful tool that provides compre
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/mahidubey/Swiggy-Restaurant-Analysis/blob/main/Swiggy%20Restaurant%20Analysis.png?raw=true)
 
